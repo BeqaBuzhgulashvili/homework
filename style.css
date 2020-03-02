@@ -1,0 +1,82 @@
+body{
+
+	background-color: rgb(240, 238, 223);
+}
+.main{
+}
+.left{
+	width: 70%;
+	display: flex;
+	justify-content: space-between;
+}
+.right{
+	width: 30%;
+	background-color:rgb(105, 132, 117);
+    padding: 10px;
+    border-bottom-right-radius: 25px;
+}
+.display{
+	display: flex;
+	margin-top: -8px;
+	width: 100.9%;
+
+}
+.list{
+	list-style: none;
+	margin-left: 20px;
+	color: rgb(105, 132, 117);
+	margin-right: 35px;
+}
+.display1{
+	display: block ruby;
+}
+.list1{
+	list-style: none;
+	color: white;
+	margin-right: 15px;
+}
+.icons-bar{
+	display: block ruby;
+}
+.main2{
+	display: flex;
+}
+.left1{
+	width: 70%;
+	background: rgb(246, 246, 236);
+}
+.right1{
+	width: 30%;
+}
+.color{
+	color: rgb(105, 132, 117);
+}
+.main3{
+	display: flex;
+	justify-content: space-between;
+}
+.flex{
+	display: flex;
+
+}
+.padding-class{
+	padding-top: 15%;
+}
+.padding-class1{
+	padding-top: 75%;
+}
+.buttonClass{
+	border: solid;
+	border-width: 0.1px;
+	background: none;
+	height: 20px;
+}
+.padding-class2{
+	padding-top: 50%;
+}
+.button2{
+	background-color: rgb(105, 132, 117);
+	border-radius: 20px;
+	height: 40px;
+	border-color: rgb(105, 132, 117);
+}
